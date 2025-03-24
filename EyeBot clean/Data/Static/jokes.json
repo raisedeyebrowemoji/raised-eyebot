@@ -1,0 +1,47 @@
+{
+    "formats": [
+        "Why did the {subject} {verb1} {object1}? To {verb2} {object2}! {exclamation}",
+        "What do you get when you cross a {subject} with a {object}? A {subject} {object}! {exclamation}",
+        "What did the {subject} say to the {object1}? \"{exclamation}\"",
+        "\n\\- Knock knock! \n\\- Who's there? \n\\- {subject}! \n\\- {subject} who? \n\\- {verb1}ing {subject}! {exclamation}",
+        "Yo mama so {adjective}, when she {verb1}, she {verb2}ed {object1}! {exclamation}",
+        "\"Hey {subject}, can you {verb1} {object1}?\" \n\"Sorry, I’m busy {verb2}ing {object2}.\" \n\"{exclamation}\"",
+        "What’s a {adjective} {subject}'s worst nightmare? {verb1}ing {object1} while {verb2}ing {object2}! {exclamation}"
+    ],
+
+    "adjectives": [
+        "fat", "smart", "dumb", "awesome", "cool", "nice", "hot", "cold", "powerful", "funny",
+        "lazy", "energetic", "brave", "cowardly", "happy", "sad", "angry", "kind", "mean",
+        "silly", "serious", "weird", "normal", "creative", "boring", "strong", "weak",
+        "friendly", "unfriendly", "beautiful", "ugly", "clean", "dirty", "polite", "rude"
+    ],
+
+    "nouns": [
+        "programmer", "duck", "cow", "guy", "philosopher", "weirdo", "necromancer", "zombie",
+        "vampire", "alien", "robot", "AI", "wizard", "clown", "skeleton", "ghost", "demon",
+        "cat", "dog", "fish", "bird", "dinosaur", "dragon", "goblin", "cashier", "construction worker", "elf",
+        "other guy", "neverending feeling of existential dread", "car", "road", "tree", "rock", "mountain", "the super bowl"
+    ],
+
+    "verbs": [
+        "say", "ask", "tell", "scream at", "whisper to", "sing to", "dance with", "fight", "befriend",
+        "betray", "marry", "divorce", "curse", "hex", "summon", "banish",
+        "eat", "drink", "cook for", "clean for", "laugh at", "hug", "kiss", "high-five",
+        "debug"
+    ],
+
+    "exclamations": [
+        "HAHAHAHAHAHAHDSAABGHJASHGASHBASBHADFDEKBGrjseth",
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "Beep beep!",
+        "Cockadoodledoo!",
+        "YEAHHHHHHHHHHHH!!",
+        "Well ain't THAT funny!",
+        "Make sure to like, subscribe, and hit that little bell!",
+        "making this feature was a mistake",
+        "I'm sorry",
+        "naahhhh imm dead. vro im literally dead",
+        "I have depression.",
+        "**EXTREMELY LOUD INCORRECT BUZZER**"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dev_perm_users": {
+    },
+    
+    "embed_param_map": {
+        "title": "title",
+        "t": "title",
+        "description": "description",
+        "desc": "description",
+        "d": "description",
+        "color": "color",
+        "colour": "color",
+        "col": "color",
+        "c": "color",
+        "footer": "set_footer",
+        "foot": "set_footer",
+        "f": "set_footer",
+        "image:": "set_image",
+        "img": "set_image",
+        "i": "set_image",
+        "thumbnail:": "set_thumbnail",
+        "thumb": "set_thumbnail",
+        "th": "set_thumbnail",
+        "url": "url",
+        "u": "url"
+    }
+}

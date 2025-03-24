@@ -1,0 +1,73 @@
+{
+    "help": {
+        "short_description": "you already know it anyways",
+        "long_description": "Shows the help menu. \nIn 'Usage' `()` means optional arguments, and `<>` means required arguments.",
+        "names": ["help", "h"],
+        "usage": "help (command)",
+        "color": "00ff00"
+    },
+
+    "ping": {
+        "short_description": "*Pong*",
+        "long_description": "Checks the bot's response time.\nAlso is a minigame where you have to +ping as much as you can in a row for a high score.",
+        "names": ["ping", "p"],
+        "usage": "ping",
+        "color": "ff1111"
+    },
+
+    "rolldice": {
+        "short_description": "Rolls a dice",
+        "long_description": "Rolls an n-sided dice. *`rolldice 2` flips a coin*",
+        "names": ["rolldice", "roll", "dice", "d"],
+        "usage": "rolldice <number of sides>",
+        "color": "ffaa00"
+    },
+    
+    "coinflip": {
+        "short_description": "Flips a coin",
+        "long_description": "Gets heads or tails. Exactly the same as `rolldice 2`",
+        "names": ["coinflip", "flip", "coin", "c"],
+        "usage": "coinflip",
+        "color": "cc8800"
+    },
+
+    "chance": {
+        "short_description": "Calculates the chance of an event.",
+        "long_description": "Says a chance for an event 1-100%. \nThe same person asking for the same event will always get the same answer.",
+        "names": ["chance", "c"],
+        "usage": "chance <event>",
+        "color": "0000FF"
+    },
+
+    "joke": {
+        "short_description": "Sends a randomly generated joke.",
+        "long_description": "Picks a joke format and inserts random nouns and verbs into it. Message <@1194349607849828383> if it actually says something funny",
+        "names": ["joke", "j"],
+        "usage": "joke",
+        "color": "FFFF00"
+    },
+
+    "reactionboard": {
+        "short_description": "Sets up the reactionboard.",
+        "long_description": "The reactionboard is a starboard where if enough people use any reaction the message gets send to it.",
+        "names": ["reactionboard", "rb"],
+        "usage": "reactionboard <channel> <threshold>",
+        "color": "FF4422"
+    },
+
+    "embed": {
+        "short_description": "Sends an embed with whatever you want.",
+        "long_description": "Parameters are:\n```\ntitle/t\ndescription/desc/d\nimage/img/i\nthumbnail/thumb/th\ncolor/col/c\nfooter/foot/f\nurl/u\n```\n*Image, thumbnail need image/gif urls. Parameters with multiple words should be put in quotes (e.x. `\"desc:i loooove embeds\"`)*",
+        "names": ["embed", "e"],
+        "usage": "embed (param1:value1) (param2:value2) (etc.)",
+        "color": "222222"
+    },
+    
+    "battle": {
+        "short_description": "Initiates a battle between you and another user",
+        "long_description": "Similar to the one from yggdrasil, but I tried to change it up to make it more unique. By default the opponent is the bot and the max hp is 100.",
+        "names": ["battle", "b", "deathbattle", "db"],
+        "usage": "battle (user) (max hp)",
+        "color": "CC0000"
+    }
+}

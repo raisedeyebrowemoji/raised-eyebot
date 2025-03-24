@@ -1,0 +1,158 @@
+[
+    {
+        "description": "⚔️ {attacker} swings at {receiver} with a sword! {receiver} loses **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [10, 22]
+        }
+    },
+    {
+        "description": "🪑 {attacker} smashes {receiver} with a chair! {receiver} loses **{rec_dmg}** HP and {attacker} hurts themselves for **{att_dmg}** HP!",
+        "damage": {
+            "attacker": [1, 5],
+            "receiver": [10, 20]
+        }
+    },
+    {
+        "description": "🐾 {attacker} scratches {receiver} with their nails! Due to mild discomfort, {receiver} loses **{rec_dmg}** HP",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [1, 11]
+        }
+    },
+    {
+        "description": "💥 {attacker} shoots {receiver} in the face with a shotgun! {receiver} gets blasted for **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [15, 35]
+        }
+    },
+    {
+        "description": "🏹 {attacker} shoots an arrow from a longbow into {receiver}! It does **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [8, 18]
+        }
+    },
+    {
+        "description": "🔥 {attacker} throws a fireball at {receiver}, engulfing them in flames! After putting them out, {receiver} loses **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [12, 25]
+        }
+    },
+    {
+        "description": "🥊 {attacker} punches {receiver} with a powerful uppercut! {receiver} gets launched into the air and loses **{rec_dmg}** HP from the landing!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [5, 15]
+        }
+    },
+    {
+        "description": "🗡️ {attacker} slashes {receiver} with dual daggers for **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [7, 20]
+        }
+    },
+    {
+        "description": "🪓 {attacker} hurls a spear at {receiver}, piercing through their armor! {receiver} loses **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [10, 30]
+        }
+    },
+    {
+        "description": "⚡ {attacker} summons a lightning strike on {receiver}! {receiver} loses a whopping **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [1, 10],
+            "receiver": [20, 40]
+        }
+    },
+    {
+        "description": "😐 {attacker} does literally nothing!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [0, 0]
+        }
+    },
+    {
+        "description": "💣 {attacker} sets off a bomb, hurting everyone when it explodes! {attacker} loses **{att_dmg}** HP, {receiver} loses **{rec_dmg}**!",
+        "damage": {
+            "attacker": [10, 25],
+            "receiver": [10, 25]
+        }
+    },
+    {
+        "description": "🛩️ {attacker} nosedives into {receiver}, injuring both! {receiver} loses **{rec_dmg}** HP and {attacker} loses **{att_dmg}**!",
+        "damage": {
+            "attacker": [10, 20],
+            "receiver": [20, 40]
+        }
+    },
+    {
+        "description": "✨ {attacker} summons magical rain, healing everyone! {attacker} heals **{att_dmg}** HP, {receiver} heals **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [-15, -5],
+            "receiver": [-15, -5]
+        }
+    },
+    {
+        "description": "🔮 {attacker} casts a healing spell on {receiver}, restoring **{rec_dmg}** of their health! Why though?",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [-15, -10]
+        }
+    },
+    {
+        "description": "🧉 {attacker} drinks a potion, healing themselves for **{att_dmg}** HP!",
+        "damage": {
+            "attacker": [-30, -15],
+            "receiver": [0, 0]
+        }
+    },
+    {
+        "description": "🍌 {attacker} throws a banana peel at {receiver}! {receiver} slips and loses **{rec_dmg}** HP!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [2, 10]
+        }
+    },
+    {
+        "description": "🎤 {attacker} sings a terrible song to {receiver}! {receiver} loses **{rec_dmg}** HP from their ears bleeding!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [5, 15]
+        }
+    },
+    {
+        "description": "🐸 {attacker} turns {receiver} into a frog! {receiver} loses **{rec_dmg}** HP from the transformation shock!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [8, 18]
+        }
+    },
+    {
+        "description": "🍕 {attacker} slaps {receiver} with a hot pizza! {receiver} loses **{rec_dmg}** HP from the burns!",
+        "damage": {
+            "attacker": [0, 0],
+            "receiver": [10, 20]
+        }
+    },
+
+    {
+        "description": "🧛‍♀️ {attacker} sucks {receiver}'s blood, draining them of {rec_dmg} HP and stealing {att_dmg}!",
+        "damage": {
+            "attacker": [-16, -8],
+            "receiver": [8, 16]
+        }
+    },
+    
+    {
+        "description": "🙏 {attacker} meditates, regaining {att_dmg} HP!",
+        "damage": {
+            "attacker": [-12, -5],
+            "receiver": [0, 0]
+        }
+    }
+]
